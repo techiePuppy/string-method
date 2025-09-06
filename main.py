@@ -1,2 +1,2 @@
-text = input("enter any text")
-print(text[::-1])
+text = input("Enter the word: ")
+print("Uppercase : ",text.upper())
